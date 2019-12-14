@@ -11,13 +11,13 @@
 * ```git clone https://github.com/htr-tech/ubuntu```
 * ```cd ubuntu```
 * ```chmod +x ubuntu.sh```
-* ```./ubuntu.sh```
+* ```bash ubuntu.sh```
 
 ### Single Command
 ```
-apt update && apt install git wget proot -y && git clone https://github.com/htr-tech/ubuntu && cd ubuntu && chmod +x ubuntu.sh && ./ubuntu.sh
+apt update && apt install git wget proot -y && git clone https://github.com/htr-tech/ubuntu && cd ubuntu && chmod +x ubuntu.sh && bash ubuntu.sh
 ```
-* #### Start ubuntu ```./start.sh```
+* #### Start ubuntu ```bash start.sh```
 * #### Exit ubuntu ```logout```
 #
 
