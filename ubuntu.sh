@@ -101,6 +101,6 @@ printf '\e[1;96m Ubuntu Base 19.10 (Eoan Ermine)\n'
 printf '\e[1;96m Updated on 23-11-2019\n'
 printf '\e[1;97m---------------------------------------'
 echo ""
-printf '\e[1;93m Now launch ubuntu  by "./start.sh"\n'
+printf '\e[1;93m Now launch ubuntu  by "bash start.sh"\n'
 printf '\e[0m'
 echo ""
